@@ -5,8 +5,6 @@ REPOSITORIES=(
     'frameworks/native'
     'frameworks/opt/telephony'
     'packages/apps/Camera2'
-    'system/core'
-    'system/vold'
 )
 
 for repository in "${REPOSITORIES[@]}"; do
